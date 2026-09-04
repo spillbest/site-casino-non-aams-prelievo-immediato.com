@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://casino-non-aams-prelievo-immediato.com/sitemap.xml
